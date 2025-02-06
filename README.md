@@ -18,8 +18,8 @@
 ---
 
 ### 📈 GitHub Stats:
-![Ajitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-ajitesh-srivastava&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-ajitesh-srivastava&layout=compact&theme=radical)
+![Ajitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajs1109&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs1109&layout=compact&theme=radical)
 
 ---
 
@@ -35,8 +35,8 @@
 - Advanced Backend Development with Microservices
 
 ### 📌 Featured Projects:
-🔹 **[SchoolDiary](#)** - A school management application  
-🔹 **[WebGenie](#)** - A dynamic website builder  
-🔹 **[Zoment](#)** - A social networking project  
+🔹 **[TypeBattle](#)** - Interactive web-based typing speed game
+🔹 **[Real Time Chat App](#)** - Real-time chat application with WebSockets
+🔹 **[Youtube Clone](#)** - A social networking project  
 
 🚀 Open to exciting opportunities & collaborations! Feel free to connect. 😊
